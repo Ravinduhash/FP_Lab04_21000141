@@ -1,4 +1,4 @@
-SCS2204 Functional Programming - Tutorial 03_submission
+SCS2204 Functional Programming - Tutorial 04_submission
 
 There are three(03) programs according to the questions. Also, they are named as 
 	Question 01 : Q1.scala
